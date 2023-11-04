@@ -1,0 +1,6 @@
+Dicoding Blog. (2023, September 27). Apa Itu CI/CD? IT Developer Harus Tau.https://www.dicoding.com/blog/apa-itu-ci-cd/
+
+UNIVERSITY, B. (2020, july). BINUS UNIVERSITY. Retrieved from Teknik dalam whitebox testing dan black testing: https://socs.binus.ac.id/2020/07/02/teknik-dalam-white-box-dan-black-box-testing/
+
+Jaeni, S., N. A., & L., A. D. (2021). IMPLEMENTASI CONTINUOUS INTEGRATION / CONTINUOUS DELIVERY ( CI / CD ) PADA PERFORMANCE TESTING DEVOPS Abstraksi Keywords : Pendahuluan Tinjauan Pustaka Metode Penelitian. 2, 1–5. 
+
